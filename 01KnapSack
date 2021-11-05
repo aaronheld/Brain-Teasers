@@ -1,4 +1,4 @@
-class Main {
+class 01KnapSack {
   public static void main(String[] args) {
   //  int[][] items = new int[][] {{2,2,3},{6,10,12}};
     int[] weight = new int [] {2,3,4,2,3};
